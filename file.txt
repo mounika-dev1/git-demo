@@ -1,2 +1,1 @@
-First line
-Second line from GitHub
+Successfully committed changes through the Visual Studio Code.
